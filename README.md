@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Anjali Nauria</h1>
 <h3 align="center">Code Artisan | Crafting Seamless Digital Experiences with a Blend of Creativity and Technical Skill</h3>
 
-<img align="right" alt="coding" width="400" src="221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+<img align="right" alt="coding" width="300" src="221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 - 🔭 I have extensive experience working on multiple car rental and other projects [First Project](https://amittravelsjbp.com/)
 
