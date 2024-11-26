@@ -8,11 +8,11 @@
 
 - 🔭 I have extensive experience working on multiple car rental and other projects,
 
-First Project : [Amit Travel](https://amittravelsjbp.com/) 
+    First Project    :  [Amit Travel](https://amittravelsjbp.com/) 
 
-Second Project : [Jabalpur car rental](https://jabalpurcarrenteltaxi.com/index.html)
+    Second Project : [Jabalpur car rental](https://jabalpurcarrenteltaxi.com/index.html)
 
-Third Project : [urban car rental](https://urbancarrenteltaxi.com/#)  
+	 Third Project  : [urban car rental](https://urbancarrenteltaxi.com/#)  
   
 
 - 🌱 🌱 I’m currently learning AI tools and Automations.  
@@ -65,7 +65,7 @@ Third Project : [urban car rental](https://urbancarrenteltaxi.com/#)
 
 
 
-### DevOps  
+### Tech Tools  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
