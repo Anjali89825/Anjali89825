@@ -1,18 +1,21 @@
 # <div align="center">Hello 👋, I'm Anjali Nauria</div>  
   
 
-### <div align="center">Code Artisan | Crafting Seamless Digital Experiences with a Blend of Creativity and Technical Skill</div>  
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" align="center" height="" width="250" />
+</div>  
+  
 
-<img align="right" alt="coding" width="300" src="221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+### <div align="center">Code Artisan | Crafting Seamless Digital Experiences with a Blend of Creativity and Technical Skill</div>  
   
 
 - 🔭 I have extensive experience working on multiple car rental and other projects,
 
-    First Project    :  [Amit Travel](https://amittravelsjbp.com/) 
+	First Project  : [Amit Travel](https://amittravelsjbp.com/) 
 
-    Second Project : [Jabalpur car rental](https://jabalpurcarrenteltaxi.com/index.html)
+	Second Project : [Jabalpur car rental](https://jabalpurcarrenteltaxi.com/index.html)
 
-	 Third Project  : [urban car rental](https://urbancarrenteltaxi.com/#)  
+	Third Project  : [urban car rental](https://urbancarrenteltaxi.com/#)  
   
 
 - 🌱 🌱 I’m currently learning AI tools and Automations.  
@@ -126,5 +129,3 @@
 <div align="center"></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
