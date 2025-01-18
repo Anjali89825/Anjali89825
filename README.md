@@ -21,7 +21,7 @@
 - 🌱 🌱 I’m currently learning AI tools and Automations.  
   
 
-- 👩‍💻All of  my project are available  at [Anjali Nauria Portfolio]( https://anjalinauria-portfolio.netlify.app/)  
+- 👩‍💻All of  my project are available  at [Anjali Nauria Portfolio]( https://anjalinauria.netlify.app/)  
   
 
 - 📫 How to reach me anjalinouria16@yahoo.com  
